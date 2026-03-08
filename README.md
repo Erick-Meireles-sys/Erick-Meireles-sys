@@ -6,22 +6,22 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Sobre mim:</h2>
 
 ###
 
-<p align="left">✨ Eu sou o **Erick Meireles**, estudante de **Tecnologia da Informação** e apaixonado por **desenvolvimento Back-end e Front-end**.  
+<p align="left">✨ Eu sou o Erick Meireles, estudante de Tecnologia da Informação e apaixonado por desenvolvimento Back-end e Front-end.  
 
 - 💻 Tenho experiência criando **projetos modernos**, com HTML, CSS e JavaScript.  
 - 🎨 Gosto de trabalhar com **interfaces limpas, responsivas e interativas**.  
 - 🚀 Estou sempre aprendendo novas tecnologias e buscando **melhorar minhas habilidades em programação**.  
 - 📱 Meus projetos podem ser testados diretamente no navegador, inclusive em **celulares e tablets**.
 
-Meu objetivo é contribuir com **soluções criativas e funcionais**, enquanto continuo evoluindo</p>
+Meu objetivo é contribuir com soluções criativas e funcionais, enquanto continuo evoluindo</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu trabalho com:</h2>
 
 ###
 
